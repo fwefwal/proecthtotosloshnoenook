@@ -21,13 +21,6 @@
       "delivery": "courier",
       "productId": 2
     },
-    {
-      "id": "5e1c",
-      "firstName": "Самой",
-      "lastName": "Артур",
-      "delivery": "courier",
-      "productId": null
-    }
   ],
   "categories": [
     {
